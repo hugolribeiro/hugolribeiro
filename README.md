@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) 
 ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) 
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)  
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF) 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 
