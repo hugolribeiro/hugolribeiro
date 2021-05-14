@@ -3,7 +3,7 @@
   ✅ Welcome to my GitHub ^^
 </h1>
 
-- 👦 I'm brazilian, I was a lawyer, but after a great opportunity and change I'm in the technology area and I'm loving it!
+- 👦 I'm brazilian, I used to be a lawyer. However, after a great opportunity, I change my field. Now, I am a tecnology professional and I am loving it.
 - 🌱 I’m currently learning Python, Java, and some techs, like: docker, AWS, SQL, and others.
 - 📫 How to reach me: hugolerib@gmail.com    or   https://www.linkedin.com/in/hugoleribeiro/
 - 🎓 Several courses ([Certificates](https://github.com/hugolribeiro/Certificados))! 
