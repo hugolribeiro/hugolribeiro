@@ -6,6 +6,7 @@
 - 👦 I'm brazilian, I was a lawyer, but after a great opportunity and change I'm in the technology area and I'm loving it!
 - 🌱 I’m currently learning Python, Java, and some techs, like: docker, AWS, SQL, and others.
 - 📫 How to reach me: hugolerib@gmail.com    or   https://www.linkedin.com/in/hugoleribeiro/
+- 🎓 Several courses ([Certificates](https://github.com/hugolribeiro/Certificados))! 
 - ⚡ Fun fact: I like boardgames, geek universe and learn something.
 
 [![Linkedin Badge](https://img.shields.io/badge/-hugoleribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoleribeiro/)](https://www.linkedin.com/in/hugoleribeiro/)
