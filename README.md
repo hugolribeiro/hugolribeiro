@@ -34,3 +34,13 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/hugolribeiro">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hugolribeiro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hugolribeiro&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
