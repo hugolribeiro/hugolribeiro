@@ -9,7 +9,7 @@
 - 🎓 Several courses ([Certificates](https://github.com/hugolribeiro/Certificados))! 
 - ⚡ Fun fact: I like boardgames, geek universe and learn about ramdom facts.
 
-[![Linkedin Badge](https://img.shields.io/badge/-hugoleribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LINKEDIN/)](https://www.linkedin.com/in/hugoleribeiro/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoleribeiro/)](https://www.linkedin.com/in/hugoleribeiro/)
 [![Gmail Badge](https://img.shields.io/badge/-hugolerib@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugolerib@gmail.com)](mailto:hugolerib@gmail.com)
 
 
