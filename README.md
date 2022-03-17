@@ -14,6 +14,7 @@
 
 
 ### ⚡ Skills:
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) 
 ![Automação](https://img.shields.io/badge/-Automação-3776AB?&logoColor=FFFFFF) 
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)  
@@ -28,6 +29,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?&logo=Windows&logoColor=FFFFFF) 
 ![Xampp](https://img.shields.io/badge/-XAMPP-FB7A24?&logo=XAMPP&logoColor=FFFFFF) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=FFFFFF)
+[![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
