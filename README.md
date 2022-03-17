@@ -4,7 +4,7 @@
 </h1>
 
 - 👦 I'm brazilian, I used to be a lawyer. However, after a great opportunity, I change my field. Now, I am a tecnology professional and I am loving it.
-- 🌱 I’m currently learning Python, Java, and some techs, like: docker, AWS, SQL, and others.
+- 🌱 I’m currently learning Golang, Python, Java, and some techs, like: docker, AWS, SQL, and others.
 - 📫 How to contact me: hugolerib@gmail.com    or   https://www.linkedin.com/in/hugoleribeiro/
 - 🎓 Several courses ([Certificates](https://github.com/hugolribeiro/Certificados))! 
 - ⚡ Fun fact: I like boardgames, geek universe and learn about ramdom facts.
